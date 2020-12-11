@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  dinoshop
 //
-//  Created by Damon on 2020/11/17.
+//  Created by Serena on 2020/11/17.
 //
 
 import UIKit
